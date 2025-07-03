@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: microservice-customer-incomens
+  description: Servicio que guarda los incomes de un customer
+  annotations:
+    github.com/project-slug: pe-ke10/microservice-customer-incomens
+spec:
+  type: service
+  lifecycle: experimental
+  owner: elegibility-team
