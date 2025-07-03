@@ -9,3 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: elegibility-team
+  system: banco
